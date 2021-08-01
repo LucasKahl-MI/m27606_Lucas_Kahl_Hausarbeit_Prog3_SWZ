@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="org.glassfish.grizzly.osgi:grizzly-httpservice-bundle:2.4.4" type="repository">
+    <properties maven-id="org.glassfish.grizzly.osgi:grizzly-httpservice-bundle:2.4.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/osgi/grizzly-httpservice-bundle/2.4.4/grizzly-httpservice-bundle-2.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.0-b07/javax.servlet-api-4.0.0-b07.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http-servlet/2.4.4/grizzly-http-servlet-2.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http-server/2.4.4/grizzly-http-server-2.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-comet/2.4.4/grizzly-comet-2.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-framework/2.4.4/grizzly-framework-2.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/osgi/grizzly-httpservice/2.4.4/grizzly-httpservice-2.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http/2.4.4/grizzly-http-2.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-portunif/2.4.4/grizzly-portunif-2.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-websockets/2.4.4/grizzly-websockets-2.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/osgi/grizzly-httpservice-bundle/2.4.4/grizzly-httpservice-bundle-2.4.4-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.0-b07/javax.servlet-api-4.0.0-b07-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http-servlet/2.4.4/grizzly-http-servlet-2.4.4-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http-server/2.4.4/grizzly-http-server-2.4.4-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-comet/2.4.4/grizzly-comet-2.4.4-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-framework/2.4.4/grizzly-framework-2.4.4-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/osgi/grizzly-httpservice/2.4.4/grizzly-httpservice-2.4.4-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http/2.4.4/grizzly-http-2.4.4-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-portunif/2.4.4/grizzly-portunif-2.4.4-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-websockets/2.4.4/grizzly-websockets-2.4.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/osgi/grizzly-httpservice-bundle/2.4.4/grizzly-httpservice-bundle-2.4.4-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.0-b07/javax.servlet-api-4.0.0-b07-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http-servlet/2.4.4/grizzly-http-servlet-2.4.4-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http-server/2.4.4/grizzly-http-server-2.4.4-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-comet/2.4.4/grizzly-comet-2.4.4-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-framework/2.4.4/grizzly-framework-2.4.4-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/osgi/grizzly-httpservice/2.4.4/grizzly-httpservice-2.4.4-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http/2.4.4/grizzly-http-2.4.4-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-portunif/2.4.4/grizzly-portunif-2.4.4-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-websockets/2.4.4/grizzly-websockets-2.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
